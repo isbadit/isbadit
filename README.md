@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isbadit
+- 👋 Hi, This is Wei
 - 👀 I’m interested in Artificial Intelligence in Service Design
 - 🌱 I’m currently learning Contextual Innovation Planning, Service Design, Smart Device Interactive, Integration Service，Digital transformation and Data analytics
 - 💞️ I’m looking to collaborate on Contextual Innovator
